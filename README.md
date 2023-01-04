@@ -3,6 +3,9 @@ Cronômetro em HTML5, CSS3 e JS.
 
 Com ajuda do vídeo aula feito pelo canal [Feature Code](https://www.youtube.com/watch?v=oshvAg-6Mbk&t=615s), consegui desenvolver esse projeto em JS.
 
+# Quer testar?
+Você pode testar online no meu site. [Clique aqui](https://pbpaschoal.com/Cronometro/index.html)
+
 # MARCAÇÃO | PROGRAMAÇÃO | FRAMEWORK | TECH:
  
 ![HTML](https://i.ibb.co/41fmmJj/html.png)
